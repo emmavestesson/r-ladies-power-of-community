@@ -4,4 +4,4 @@ EARL presentation
 
 Links
 
-https://emmavestesson.github.io/r-ladies-power-of-community/slides.html#1
+https://emmavestesson.github.io/r-ladies-power-of-community/Slides.html#1
